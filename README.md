@@ -1,4 +1,9 @@
 Sistema de Pesquisa de Clima Organizacional
+
+![2](https://github.com/user-attachments/assets/b3985546-f616-4f18-8fa7-52ebd6bd7810)
+
+![1](https://github.com/user-attachments/assets/fbfd49af-d06b-4ec7-a009-d064a724738b)
+
 Descrição do Projeto
 Este sistema de pesquisa de clima organizacional permite que uma empresa colete e analise respostas de seus funcionários sobre o ambiente de trabalho. Os funcionários podem responder a 10 perguntas-chave, cujas respostas são armazenadas em um banco de dados SQLite. O sistema oferece funcionalidades de login e cadastro de usuários, onde cada funcionário se cadastra com sua matrícula e empresa.
 
